@@ -5,7 +5,7 @@ import './search.scss';
  
 const rootElement = document.querySelector('#root');
 
-export default Search=(props) => {
+export default function Search(props) {
     
 return ( 
     <div className="search">

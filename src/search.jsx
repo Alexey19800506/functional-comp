@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Search(props) {
+export default function(props) {
     
     return ( 
         <div className="search">
